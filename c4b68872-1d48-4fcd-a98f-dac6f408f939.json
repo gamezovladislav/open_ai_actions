@@ -1,0 +1,13 @@
+{
+  "id": "c4b68872-1d48-4fcd-a98f-dac6f408f939",
+  "name": "Google",
+  "url": "https://www.google.com",
+  "description": {
+    "en": "Google is a lobal technology company that specializes in Internet-related services and products, including a search engine, online advertising technologies, cloud computing, software, and hardware.",
+    "ru": "Google - globalnaya technologicheskaya companib, specializiruytaya on sherokh dliph onein instrumentownnyh sluzxes, reclama eposnyyi chiesten."
+  },
+  "mentions": [],
+  "date": "2024-09-05",
+  "tags": ["search", "cloud", "advertisement", "software", "hardware"],
+  "rank": 0
+}
