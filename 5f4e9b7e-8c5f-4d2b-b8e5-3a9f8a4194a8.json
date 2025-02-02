@@ -1,0 +1,20 @@
+{
+    "id": "5f4e9b7e-8c5f-4d2b-b8e5-3a9f8a4194a8",
+    "name": "MakeReal",
+    "url": "https://makereal.tldraw.com/",
+    "description": {
+        "en": "MakeReal is a super-simple yet effective AI tool for prototyping interfaces. It provides an infinite canvas and drawing tools for sketching interfaces, UML diagrams, or flowcharts. After sketching, you can press the 'Make Real' button, and the tool redraws everything using HTML and CSS. The resulting code can be downloaded and used for your purposes.",
+        "ru": "MakeReal - супер-простой и одновременно эффектный ИИ-инструмент для прототипирования интерфейсов. У вас есть бесконечный канвас и инструменты для рисования. Вы рисуете набросок интерфейса или UML-диаграммы, блоксхемы, выделяете черновик и нажимаете кнопку \"Make Real\", после чего инструмент перерисовывает всё это с использованием HTML и CSS. Полученный код можно скачать и использовать в своих целях."
+    },
+    "mentions": [],
+    "date": "2023-10-08",
+    "tags": [
+        "ui",
+        "design",
+        "interface",
+        "html",
+        "css",
+        "prototype"
+    ],
+    "rank": 0
+}
