@@ -1,0 +1,19 @@
+{
+    "id": "c4f9b7e6-2b8e-4c0b-bd5e-1c5f96d4e8f6",
+    "name": "OpenScholar",
+    "url": "https://allenai.org/opens",
+    "description": {
+        "en": "OpenScholar is a retrieval-augmented language model developed by the Allen Institute for Artificial Intelligence (Ai2) and the University of Washington. It is enhanced with a search system that operates with a database of over 45 million open-access scientific papers.",
+        "ru": "OpenScholar — модель, дополненная поисковой системой, представлена Институтом искусственного интеллекта Аллена (Ai2) и Вашингтонским университетом. Она работает с базой данных из более чем 45 миллионов научных работ с открытым доступом."
+    },
+    "mentions": [],
+    "date": "2023-10-08",
+    "tags": [
+        "ai",
+        "science",
+        "RAG",
+        "retrieval",
+        "model"
+    ],
+    "rank": 0
+}
