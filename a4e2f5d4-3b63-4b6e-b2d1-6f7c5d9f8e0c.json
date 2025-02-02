@@ -1,0 +1,18 @@
+{
+    "id": "a4e2f5d4-3b63-4b6e-b2d1-6f7c5d9f8e0c",
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai",
+    "description": {
+        "en": "LM Studio is a platform designed for building and deploying large language models. It provides tools for model training, evaluation, and deployment, making it accessible for users to create their own custom language models.",
+        "ru": "LM Studio — это платформа, предназначенная для создания и внедрения крупных языковых моделей. Она предоставляет инструменты для обучения, оценки и развертывания моделей, что делает её доступной для пользователей, желающих создать собственные кастомные языковые модели."
+    },
+    "mentions": [],
+    "date": "2023-10-08",
+    "tags": [
+        "ai",
+        "llm",
+        "language",
+        "model"
+    ],
+    "rank": 0
+}
