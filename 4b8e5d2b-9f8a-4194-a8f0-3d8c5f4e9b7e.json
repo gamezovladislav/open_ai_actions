@@ -1,0 +1,19 @@
+{
+    "id": "4b8e5d2b-9f8a-4194-a8f0-3d8c5f4e9b7e",
+    "name": "Palmier",
+    "url": "https://www.palmier.io/",
+    "description": {
+        "en": "Palmier is an extension for VS Code-based IDEs that, based on commit history and your dialogs with AI chats (supporting Cursor and GitHub Copilot chats), provides information on who, when, and how a specific piece of code was modified. The information is processed via LLM and presented in a summarized form, enhancing your efficiency in IDEs.",
+        "ru": "Palmier - расширение для VS Code based IDE, позволяющее на основании истории коммитов и ваших диалогов с ИИ-чатами (поддерживается Cursor и GitHub Copilot чаты) рассказывает кто, когда и как правил выделенный кусок кода. Информация выдается через обработку LLM в удобном саммаризированом виде. +1 тул для вашей эффективной работы в IDE."
+    },
+    "mentions": [],
+    "date": "2023-10-08",
+    "tags": [
+        "extension",
+        "ide",
+        "programming",
+        "copilot",
+        "github"
+    ],
+    "rank": 0
+}
