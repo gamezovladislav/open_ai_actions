@@ -1,0 +1,16 @@
+{
+    "id": "c0e5c92a-c3b2-4c54-8e97-fcd9a0f2265a",
+    "name": "Zencoder AI Extension",
+    "url": "https://zencoder.ai",
+    "description": {
+        "en": "Zencoder AI is an extension aimed at improving the coding experience.",
+        "ru": "Zencoder AI — это расширение, направленное на улучшение опыта кодирования."
+    },
+    "mentions": [],
+    "date": "2023-10-10",
+    "tags": [
+        "extension",
+        "programming"
+    ],
+    "rank": 0
+}
