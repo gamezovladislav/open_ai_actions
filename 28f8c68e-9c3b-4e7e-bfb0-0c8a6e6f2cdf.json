@@ -1,0 +1,16 @@
+{
+    "id": "28f8c68e-9c3b-4e7e-bfb0-0c8a6e6f2cdf",
+    "name": "AugmentCode Extension",
+    "url": "https://www.augmentcode.com",
+    "description": {
+        "en": "AugmentCode is an extension for developers to enhance their coding processes.",
+        "ru": "AugmentCode — это расширение для разработчиков для улучшения процесса кодирования."
+    },
+    "mentions": [],
+    "date": "2023-10-10",
+    "tags": [
+        "extension",
+        "programming"
+    ],
+    "rank": 0
+}
