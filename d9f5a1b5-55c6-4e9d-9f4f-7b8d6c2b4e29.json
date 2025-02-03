@@ -1,0 +1,17 @@
+{
+    "id": "d9f5a1b5-55c6-4e9d-9f4f-7b8d6c2b4e29",
+    "name": "Nous Chat",
+    "url": "https://nousresearch.com",
+    "description": {
+        "en": "Nous Chat is a free ChatGPT-like service powered by Hermes 3-70B model, offering high speed, source links, and a geeky UI.",
+        "ru": "Nous Chat — бесплатный аналог ChatGPT, основанный на модели Hermes 3-70B, отличается высокой скоростью работы, наличием ссылок на источники и гиковским UI."
+    },
+    "mentions": [],
+    "date": "2023-10-10",
+    "tags": [
+        "ai",
+        "chat",
+        "llm"
+    ],
+    "rank": 0
+}
