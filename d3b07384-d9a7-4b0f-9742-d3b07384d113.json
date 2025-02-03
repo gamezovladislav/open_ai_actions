@@ -1,0 +1,17 @@
+{
+    "id": "d3b07384-d9a7-4b0f-9742-d3b07384d113",
+    "name": "Logo Galleria",
+    "url": "https://logogalleria.com",
+    "description": {
+        "en": "Logo Galleria is a service for AI-generated logo creation. It allows users to create unique and professional logos using artificial intelligence technology.",
+        "ru": "Logo Galleria — это сервис для ИИ-генерации логотипов. Он позволяет пользователям создавать уникальные и профессиональные логотипы с использованием технологий искусственного интеллекта."
+    },
+    "mentions": [],
+    "date": "2023-10-17",
+    "tags": [
+        "ai",
+        "design",
+        "art"
+    ],
+    "rank": 0
+}
