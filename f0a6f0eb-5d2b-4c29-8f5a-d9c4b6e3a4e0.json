@@ -1,0 +1,16 @@
+{
+    "id": "f0a6f0eb-5d2b-4c29-8f5a-d9c4b6e3a4e0",
+    "name": "Windsurf IDE",
+    "url": "https://codeium.com/windsurf",
+    "description": {
+        "en": "Windsurf IDE is a new integrated development environment for programmers.",
+        "ru": "Windsurf IDE — новая интегрированная среда разработки для программистов."
+    },
+    "mentions": [],
+    "date": "2023-10-10",
+    "tags": [
+        "ide",
+        "programming"
+    ],
+    "rank": 0
+}
