@@ -2,5 +2,30 @@
     {
         "id": "b36f992a-48d0-4f8e-b662-315f72fa272e",
         "name": "test"
+    },
+    {
+        "id": "d2f1027f-0e5b-4f50-b528-8d5e4f9c2e3c",
+        "name": "ChatGPT",
+        "url": "https://openai.com/chatgpt",
+        "description": {
+            "en": "ChatGPT is an AI language model developed by OpenAI that interacts in a conversational way. It can assist with a wide range of inquiries, providing informative responses and engaging in dialogue.",
+            "ru": "ChatGPT — это языковая модель ИИ, разработанная OpenAI, которая взаимодействует в разговорной форме. Она может помочь с широким спектром запросов, предоставляя информативные ответы и участвуя в диалоге."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://www.youtube.com/watch?v=example",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2023-10-05",
+        "tags": [
+            "ai",
+            "language",
+            "openai",
+            "chat",
+            "nlp",
+            "gpt"
+        ],
+        "rank": 5
     }
 ]
