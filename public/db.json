@@ -2,5 +2,66 @@
     {
         "id": "b36f992a-48d0-4f8e-b662-315f72fa272e",
         "name": "test"
+    },
+    {
+        "id": "d4e55d46-9f68-4c3c-8d9b-e1f65fda8f45",
+        "name": "Neuralink",
+        "url": "https://www.neuralink.com/",
+        "description": {
+            "en": "Neuralink aims to implant ten connectors by the end of the year, increase the bandwidth to almost 1MB per second, and develop human-to-human communication 100 times faster than our typical voice conversation, ultimately building a collective intelligence.",
+            "ru": "Neuralink планирует имплантировать десять разъемов до конца года, увеличить пропускную способность до почти 1 МБ в секунду и развить коммуникацию человек-человек в 100 раз быстрее нашего обычного голосового разговора, в конечном итоге построив коллективный интеллект."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://www.youtube.com/watch?v=DxREm3s1scA",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2023-10-25",
+        "tags": [
+            "neuralink",
+            "elon musk",
+            "communication",
+            "collective intelligence",
+            "hardware"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "9d2f6f7e-8f78-4cd4-b2a0-5e3a8c9c2f0b",
+        "name": "alphaXiv",
+        "url": "https://alphaXiv.com",
+        "description": {
+            "en": "alphaXiv is a discussion forum for arXiv articles created by Stanford students. It allows users to discuss and read others' thoughts on scientific papers.",
+            "ru": "alphaXiv – это дискуссионный форум для статей arXiv, созданный студентами Стэнфорда. Он позволяет обсуждать и читать мысли других людей относительно научных статей."
+        },
+        "mentions": [],
+        "date": "2023-10-25",
+        "tags": [
+            "stanford",
+            "science",
+            "discussion",
+            "forum",
+            "arxiv"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "f1a8d5b2-7f9e-4d6b-8e4b-6a7b8f9d2c1e",
+        "name": "Stable Fast 3D",
+        "url": "https://stability.ai/",
+        "description": {
+            "en": "Stable Fast 3D is an open-source model released by StabilityAI for converting images into 3D objects.",
+            "ru": "Stable Fast 3D – это опенсорсная модель, выпущенная StabilityAI для преобразования изображений в 3D объекты."
+        },
+        "mentions": [],
+        "date": "2023-10-25",
+        "tags": [
+            "stabilityai",
+            "3d",
+            "image-to-3D",
+            "open-source"
+        ],
+        "rank": 0
     }
 ]
