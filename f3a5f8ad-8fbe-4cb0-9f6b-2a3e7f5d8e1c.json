@@ -1,0 +1,18 @@
+{
+    "id": "f3a5f8ad-8fbe-4cb0-9f6b-2a3e7f5d8e1c",
+    "name": "DepSeek R1",
+    "url": "https://depseek.com/r1",
+    "description": {
+        "en": "DepSeek R1 is an AI-powered tool designed to analyze and manage software dependencies effectively, ensuring robust and secure software development.",
+        "ru": "DepSeek R1 - это инструмент на основе ИИ, предназначенный для эффективного анализа и управления зависимостями программного обеспечения, обеспечивающий надежную и безопасную разработку ПО."
+    },
+    "mentions": [],
+    "date": "2023-10-11",
+    "tags": [
+        "ai",
+        "software engineer",
+        "security",
+        "devops"
+    ],
+    "rank": 0
+}
