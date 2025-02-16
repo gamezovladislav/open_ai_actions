@@ -1,0 +1,24 @@
+{
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "ChatGPT",
+    "url": "https://openai.com/chatgpt",
+    "description": {
+        "en": "ChatGPT is an AI language model developed by OpenAI. It is designed to understand and generate human-like text based on the input it receives. It can be used for a variety of applications including chatbots, content creation, and more.",
+        "ru": "ChatGPT - это языковая модель ИИ, разработанная OpenAI. Она предназначена для понимания и генерации текста, похожего на человеческий, на основе полученного ввода. Может использоваться для различных приложений, включая чат-боты, создание контента и многое другое."
+    },
+    "mentions": [
+        {
+            "episodeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "episodeName": "AIA Podcast #1"
+        }
+    ],
+    "date": "2023-10-05",
+    "tags": [
+        "ai",
+        "openai",
+        "nlp",
+        "language",
+        "chat"
+    ],
+    "rank": 5
+}
