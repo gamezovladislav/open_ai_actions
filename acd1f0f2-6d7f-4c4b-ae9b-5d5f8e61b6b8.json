@@ -1,0 +1,19 @@
+{
+    "id": "acd1f0f2-6d7f-4c4b-ae9b-5d5f8e61b6b8",
+    "name": "ChatGPT",
+    "url": "https://openai.com/chatgpt",
+    "description": {
+        "en": "ChatGPT is a conversational AI model developed by OpenAI. It is designed to understand and generate human-like text, enabling a wide range of applications including chatbots, content creation, and more.",
+        "ru": "ChatGPT — это модель разговорного ИИ, разработанная OpenAI. Она предназначена для понимания и генерации текста, похожего на человеческий, что позволяет использовать её в чат-ботах, создании контента и многом другом."
+    },
+    "mentions": [],
+    "date": "2023-10-14",
+    "tags": [
+        "ai",
+        "chat",
+        "gpt",
+        "openai",
+        "nlp"
+    ],
+    "rank": 0
+}
