@@ -39,5 +39,47 @@
             "llm"
         ],
         "rank": 0
+    },
+    {
+        "id": "2a9c3b8c-4f15-4d7f-9d26-b3f3c5e6a5d4",
+        "name": "Nvidia Courses",
+        "url": "https://sp-events.courses.nvidia.com/dli-india25",
+        "description": {
+            "en": "Nvidia has released several high-quality courses on DL, ML, RAG, and model handling available to the public.",
+            "ru": "Nvidia выложила в открытый доступ несколько качественных курсов по DL, ML, RAG и работе с моделями."
+        },
+        "mentions": [],
+        "date": "2023-10-05",
+        "tags": [
+            "nvidia",
+            "dl",
+            "ml",
+            "rag",
+            "education",
+            "open-access"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "5b7c8f1e-d5b9-4f28-a6ec-4d1f7e7d8e43",
+        "name": "International AI Safety Report",
+        "url": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+        "description": {
+            "en": "The International AI Safety Report is released, containing 298 pages on AI safety.",
+            "ru": "Вышел Международный AI Safety отчёт на 298 страниц!"
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "ai",
+            "safety",
+            "report"
+        ],
+        "rank": 0
     }
 ]
