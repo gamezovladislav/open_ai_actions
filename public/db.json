@@ -2,5 +2,42 @@
     {
         "id": "b36f992a-48d0-4f8e-b662-315f72fa272e",
         "name": "test"
+    },
+    {
+        "id": "b3f8eac8-8f90-4a1f-b5a3-7a9f5a3a82f4",
+        "name": "Nvidia Courses",
+        "url": "https://sp-events.courses.nvidia.com/dli-india25",
+        "description": {
+            "en": "Nvidia has released several high-quality courses on DL, ML, RAG, and model handling to the public.",
+            "ru": "Nvidia выложила в открытый доступ несколько качественных курсов по DL, ML, RAG и работе с моделями."
+        },
+        "mentions": [],
+        "date": "2023-10-31",
+        "tags": [
+            "nvidia",
+            "machine learning",
+            "rag",
+            "model",
+            "course",
+            "dl"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "d2c4f5e7-4c2a-4c8e-9d7b-9a6f9e6b1a2f",
+        "name": "International AI Safety Report",
+        "url": "",
+        "description": {
+            "en": "The International AI Safety Report has been released, spanning 298 pages.",
+            "ru": "Вышел Международный AI Safety отчёт (International AI Safety Report) на 298 страниц."
+        },
+        "mentions": [],
+        "date": "2023-10-31",
+        "tags": [
+            "ai",
+            "safety",
+            "report"
+        ],
+        "rank": 0
     }
 ]
