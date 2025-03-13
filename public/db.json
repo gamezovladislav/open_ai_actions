@@ -39,5 +39,102 @@
             "llm"
         ],
         "rank": 0
+    },
+    {
+        "id": "680b4c5b-3b56-4a9a-bb68-7e8b9f6a3e3b",
+        "name": "Nvidia Courses",
+        "url": "https://sp-events.courses.nvidia.com/dli-india25",
+        "description": {
+            "en": "Nvidia has released several high-quality courses on DL, ML, RAG, and model work.",
+            "ru": "Nvidia выложила в открытый доступ несколько качественных курсов по DL, ML, RAG и работе с моделями."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "nvidia",
+            "dl",
+            "ml",
+            "rag",
+            "education",
+            "courses"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "b7d5c2e7-6d69-4a6e-8f82-0d7c5e2a7e2b",
+        "name": "International AI Safety Report",
+        "url": "",
+        "description": {
+            "en": "Just know that the International AI Safety Report has been released. It's 298 pages long! Let us know in the chat if you manage to read it.",
+            "ru": "Просто знайте, что вышел Международный AI Safety отчёт. На 298 страниц! Напишите в чате, как он вам, если осилите."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "ai",
+            "safety",
+            "report",
+            "documentation"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "4f7c1e3e-5c58-4f9b-8f8c-5f5b9e6a8e6c",
+        "name": "LatentSync",
+        "url": "https://github.com/bytedance/LatentSync",
+        "description": {
+            "en": "ByteDance has released an open-source lip-sync model. It requires a GPU with 6.5 GB of memory to run.",
+            "ru": "ByteDance выпустили опенсорсную липсинк-модель. Для запуска понадобится GPU с 6.5 Гб памяти."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "bytedance",
+            "lip-sync",
+            "gpu",
+            "open-source",
+            "video",
+            "audio"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "2b9f6d5c-8e9e-4f7c-9b5a-7e4c5f6b7e8f",
+        "name": "Explore Agent Recipes",
+        "url": "",
+        "description": {
+            "en": "A set of visualized recipes for improving LLM responses from Together AI, inspired by Anthropic's article on Workflows and Agents.",
+            "ru": "Набор визуализированных рецептов по улучшению ответов от ЛЛМ от Together AI, вдохновленное статьей Антропиков про Воркфловы и Агенты."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=FOwRudLaAjLYiKMT",
+                "episodeName": "AIA Podcast #1"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "llm",
+            "anthropic",
+            "workflows",
+            "agents",
+            "together ai"
+        ],
+        "rank": 0
     }
 ]
