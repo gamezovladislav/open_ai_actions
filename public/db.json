@@ -39,5 +39,120 @@
             "llm"
         ],
         "rank": 0
+    },
+    {
+        "id": "b2c6f4b0-71b0-4b1c-89d3-f6b7b5f89a9c",
+        "name": "LatentSync",
+        "url": "https://github.com/bytedance/LatentSync",
+        "description": {
+            "en": "ByteDance released an open-source lip-sync model for synchronizing lip movements with audio. Requires a GPU with 6.5 GB of memory. The model processes short videos with a single face in the frame, 5–10 seconds long, at 25 frames per second and 16 kHz audio frequency.",
+            "ru": "ByteDance выпустили опенсорсную липсинк-модель для синхронизации движения губ с аудио. Для запуска понадобится GPU с 6.5 Гб памяти. Модель обрабатывает короткие видео с одним лицом в кадре, длиной 5–10 секунд, с частотой 25 кадров в секунду и частотой аудио 16 кГц."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/rnkPg-W_A70?si=onytvRLuh7ZXzaHC",
+                "episodeName": "AIA Podcast #102"
+            }
+        ],
+        "date": "2025-01-17",
+        "tags": [
+            "bytedance",
+            "lipsync",
+            "open-source",
+            "video",
+            "audio"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "c3a8d7e1-9f0f-4f7b-a51d-7e5eae3f5f6e",
+        "name": "Explore Agent Recipes",
+        "url": "https://www.agentrecipes.com/",
+        "description": {
+            "en": "A set of visualized recipes for improving responses from LLM by Together AI, inspired by Anthropic's article on Workflows and Agents.",
+            "ru": "Набор визуализированных рецептов по улучшению ответов от ЛЛМ от Together AI, вдохновленное статьей Антропиков про Воркфловы и Агенты."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/rnkPg-W_A70?si=onytvRLuh7ZXzaHC",
+                "episodeName": "AIA Podcast #102"
+            }
+        ],
+        "date": "2025-01-17",
+        "tags": [
+            "agents",
+            "llm",
+            "anthropic",
+            "workflow"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "d4e9f6b2-8f6b-4d7b-8d7f-a1a7c0a1b2f3",
+        "name": "Nvidia Deep Learning Courses",
+        "url": "https://sp-events.courses.nvidia.com/dli-india25",
+        "description": {
+            "en": "Nvidia released several high-quality courses on Deep Learning, Machine Learning, RAG, and working with models.",
+            "ru": "Nvidia выложила в открытый доступ несколько качественных курсов по DL, ML, RAG и работе с моделями."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=Jmn9slogYI3VbQIp",
+                "episodeName": "AIA Podcast #103"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "nvidia",
+            "deep learning",
+            "machine learning",
+            "rag"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "e5f9a8b3-1f7b-4a1b-9c8b-b1d8e0f9a9d2",
+        "name": "International AI Safety Report",
+        "url": "https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf",
+        "description": {
+            "en": "The International AI Safety Report 2025 has been released. It spans 298 pages and covers crucial AI safety topics.",
+            "ru": "Вышел Международный AI Safety отчёт (International AI Safety Report) 2025 года, содержащий 298 страниц по ключевым темам безопасности ИИ."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/llWFloe3pWk?si=Jmn9slogYI3VbQIp",
+                "episodeName": "AIA Podcast #103"
+            }
+        ],
+        "date": "2025-01-31",
+        "tags": [
+            "ai",
+            "safety",
+            "report"
+        ],
+        "rank": 0
+    },
+    {
+        "id": "f6b8c9d0-2f3b-4e1b-a8b9-c2d1f1a8b3e4",
+        "name": "Introduction to LLM - Extended Version",
+        "url": "https://youtu.be/7xTGNNLPyMI?si=GP7W8xrIsQkaC0OP",
+        "description": {
+            "en": "Andrej Karpathy released a fully revised extended version (3 hours vs 1) of his old video 'Introduction to LLM', explaining how models like ChatGPT work under the hood to a general audience.",
+            "ru": "Андрей Картпатый выложил полностью переработанную расширенную (3 часа против 1) версию своего старого видео «Введение в LLM», в котором для широкой аудитории рассказывает, как устроены модели под капотом ChatGPT."
+        },
+        "mentions": [
+            {
+                "episodeUrl": "https://youtu.be/bztZeKCfd38?si=YVSZ5J0Vzj3-bVUK",
+                "episodeName": "AIA Podcast #104"
+            }
+        ],
+        "date": "2025-02-11",
+        "tags": [
+            "llm",
+            "chatgpt",
+            "video",
+            "education"
+        ],
+        "rank": 0
     }
 ]
